@@ -37,7 +37,7 @@ export default function Home() {
           Mad Hatter serves specifically to be a public good for Bankless DAO and provides an opportunity for incoming developers to showcase their talent through continued development. This bot is not currently, nor will it ever be, designed for the purpose of generating revenue.
 
           </p>
-          <button className="rounded-none ...">
+          <button className="rounded-none bg-green-400">
             <Link href="https://github.com/BanklessDAO/mad-hatter"/>
           </button>
         </div>

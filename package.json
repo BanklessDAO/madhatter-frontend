@@ -17,6 +17,7 @@
     "flowbite": "^1.5.3",
     "flowbite-react": "^0.3.4",
     "next": "13.0.2",
+    "next-auth": "^4.18.7",
     "react": "18.2.0",
     "react-animated-3d-card": "^1.0.2",
     "react-dom": "18.2.0",

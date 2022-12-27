@@ -29,8 +29,8 @@ export default function Layout({children}: any ) {
             </Navbar.Brand>
             <div className="flex md:order-2">
               <div className="hidden md:block">
-                <Link href="#" passHref>
-                  <Button color="primary">Support on Juicebox</Button>
+                <Link href="https://juicebox.money/@madhattermgmt" target="_blank" passHref>
+                  <Button className="bg-green-600">Support on Juicebox</Button>
                 </Link>
               </div>
               <Navbar.Toggle />

@@ -30,7 +30,7 @@ export default function Layout({children}: any ) {
             <div className="flex md:order-2">
               <div className="hidden md:block">
                 <Link href="https://juicebox.money/@madhattermgmt" target="_blank" passHref>
-                  <Button className="bg-green-600">Support on Juicebox</Button>
+                  <Button className="bg-green-600 hover:bg-green-400">Support on Juicebox</Button>
                 </Link>
               </div>
               <Navbar.Toggle />
